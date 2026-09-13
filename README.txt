@@ -1,4 +1,4 @@
-TECHPEP LABS — SITE DEMONSTRATIVO
+TECHPEP LABS — SITE OFICIAL 
 
 Arquivos:
 - index.html: página de verificação
